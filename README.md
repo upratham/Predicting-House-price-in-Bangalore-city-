@@ -7,3 +7,4 @@ step-3 feature extraction
 step-4 model building
 step-5 model evaluation
 
+for more details go through the code 
